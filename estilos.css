@@ -1,0 +1,32 @@
+.page-404{
+          background-color: #ffffff;
+        }
+        body{
+          font-family: 'Open Sans', sans-serif;
+        }
+        .bold{
+          font-weight: 600;
+        }
+        .title{
+          text-align: center;
+        }
+        .text-lg{
+          font-weight: 800;
+          font-size: 350px;
+        }
+        .night-king{
+          width: 400px;
+          height: 450px;
+          border-radius: 100%;
+          background-image: url('https://cdn.dribbble.com/users/750408/screenshots/3648247/2017-07-09-nightking.gif');
+          
+          background-position: center top;
+        }
+        .button{
+          margin-top: 30px;
+          padding: 10px;
+          border: 3px solid #ffffff;
+          border-radius: 1000px;
+          color: #ffffff;
+          text-align: center;
+        }
